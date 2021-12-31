@@ -1,0 +1,1 @@
+print("My first task for FOCP finals.")
